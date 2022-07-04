@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC01_BuyTicket
+-ID:\1. Workplace\3. LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc01_buyticket\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc01_buyticket\\combined_UC01_BuyTicket.c
+c:\users\sangu\documents\vugen\scripts\uc01_buyticket\\pre_cci.c
