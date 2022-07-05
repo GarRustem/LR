@@ -1,4 +1,4 @@
 "firstName=Alice&lastName=Cooper&address1=Palm+st.&address2=New+York&pass1=Alice+Cooper&creditC"
-"ard=567856789341&expDate=02%2F78&oldCCOption=&numPassengers=1&seatType=Coach&seatPref=None&out"
-"boundFlight=011%3B644%3B07%2F04%2F2022&advanceDiscount=0&returnFlight=101%3B644%3B07%2F05%2F20"
-"22&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"
+"ard=785656789155&expDate=05%2F81&oldCCOption=&numPassengers=1&seatType=First&seatPref=Window&o"
+"utboundFlight=011%3B644%3B07%2F04%2F2022&advanceDiscount=0&returnFlight=101%3B644%3B07%2F05%2F"
+"2022&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"

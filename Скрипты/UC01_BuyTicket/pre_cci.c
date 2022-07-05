@@ -2637,6 +2637,9 @@ Action()
 	 
 
 	lr_start_transaction("buy_ticket_login");
+	
+	web_reg_find("Text=User password was correct", "LAST");
+	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2664,6 +2667,8 @@ Action()
 	lr_think_time(24);
 
 	lr_start_transaction("buy_ticket_flights");
+	
+	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -2682,6 +2687,8 @@ Action()
 	lr_think_time(108);
 
 	lr_start_transaction("buy_ticket_find_flight");
+	
+	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("reservations.pl",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -2715,6 +2722,8 @@ Action()
 	lr_think_time(76);
 
 	lr_start_transaction("buy_ticket_select_flight");
+	
+	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("reservations.pl_2",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -2742,6 +2751,8 @@ Action()
 	lr_think_time(63);
 
 	lr_start_transaction("buy_ticket_payment_details");
+	
+	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("reservations.pl_3",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -2779,6 +2790,8 @@ Action()
 	lr_think_time(119);
 
 	lr_start_transaction("buy_ticket_logout");
+	
+	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
