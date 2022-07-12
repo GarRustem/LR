@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC03_UserAuth
+-ID:\1. Workplace\3. LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc03_userauth\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc03_userauth\\combined_UC03_UserAuth.c
+c:\users\sangu\documents\vugen\scripts\uc03_userauth\\pre_cci.c

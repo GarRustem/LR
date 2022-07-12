@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC04_CreateNewUser
+-ID:\1. Workplace\3. LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc04_createnewuser\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc04_createnewuser\\combined_UC04_CreateNewUser.c
+c:\users\sangu\documents\vugen\scripts\uc04_createnewuser\\pre_cci.c

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC05_Itinerary
+-ID:\1. Workplace\3. LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc05_itinerary\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc05_itinerary\\combined_UC05_Itinerary.c
+c:\users\sangu\documents\vugen\scripts\uc05_itinerary\\pre_cci.c

@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC01_BuyTicket__*delimiter*__buy_ticket_homepage__*delimiter*__buy_ticket_login__*delimiter*__buy_ticket_flights__*delimiter*__buy_ticket_find_flight__*delimiter*__buy_ticket_select_flight__*delimiter*__buy_ticket_payment_details__*delimiter*__buy_ticket_logout"
+Order="UC01_BuyTicket__*delimiter*__buy_ticket_flights__*delimiter*__buy_ticket_find_flight__*delimiter*__buy_ticket_select_flight__*delimiter*__buy_ticket_payment_details"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -60,10 +60,7 @@ LastReplayedRunName=result1
 ActiveRunName=result1
 [Transactions]
 UC01_BuyTicket=
-buy_ticket_homepage=
-buy_ticket_login=
 buy_ticket_flights=
 buy_ticket_find_flight=
 buy_ticket_select_flight=
 buy_ticket_payment_details=
-buy_ticket_logout=

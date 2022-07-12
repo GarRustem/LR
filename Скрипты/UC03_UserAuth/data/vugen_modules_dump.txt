@@ -1,0 +1,397 @@
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\VuGen.exe
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ntdll.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MSCOREE.DLL
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\System32\KERNEL32.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\System32\KERNELBASE.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\apphelp.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\ADVAPI32.dll
+		7.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\msvcrt.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\sechost.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\RPCRT4.dll
+		4.8.4180.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\mscoreei.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\SHLWAPI.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\kernel.appcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\VERSION.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\clr.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\USER32.dll
+		10.0.19041.1766 (WinBuild.160101.0800)C:\WINDOWS\System32\win32u.dll
+		10.0.19041.1620 (WinBuild.160101.0800)C:\WINDOWS\System32\GDI32.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\System32\gdi32full.dll
+		10.0.19041.789 (WinBuild.160101.0800)C:\WINDOWS\System32\msvcp_win.dll
+		10.0.19041.789 (WinBuild.160101.0800)C:\WINDOWS\System32\ucrtbase.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\WINDOWS\SYSTEM32\VCRUNTIME140_CLR0400.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\WINDOWS\SYSTEM32\ucrtbase_clr0400.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\IMM32.DLL
+		4.8.4515.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\mscorlib\a403a0b75e95c07da2caa7f780446a62\mscorlib.ni.dll
+		10.0.19041.1320 (WinBuild.160101.0800)C:\WINDOWS\System32\ole32.dll
+		10.0.19041.1320 (WinBuild.160101.0800)C:\WINDOWS\System32\combase.dll
+		10.0.19041.1415 (WinBuild.160101.0800)C:\WINDOWS\System32\bcryptPrimitives.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\uxtheme.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\clrjit.dll
+		10.0.19041.985 (WinBuild.160101.0800)C:\WINDOWS\System32\OLEAUT32.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\CRYPTSP.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\rsaenh.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\bcrypt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\CRYPTBASE.dll
+		4.8.4488.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System\8544565b0ccfddb579837a5d8887dbad\System.ni.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Core\57764fb7ec10bfe068aade4e141f0be5\System.Core.ni.dll
+		4.8.4190.0 built by: NET48REL1LAST_BC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Configuration\1b4ba721e83857649d0137f5084983eb\System.Configuration.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml\a31aa6dffae217ee1ebf503e3a6fd9b5\System.Xml.ni.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\shell32.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\windows.storage.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\Wldp.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\SHCORE.dll
+		10.0.19041.844 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\profapi.dll
+		5.82 (WinBuild.160101.0800)   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_5.82.19041.1110_none_c0da534e38c01f4d\comctl32.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\WindowsBase\cd5694667611daff5df925fb79b44ae7\WindowsBase.ni.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\PresentationCore\074da4c6824bc84932350b813f62f7fe\PresentationCore.ni.dll
+		4.8.4515.0                    C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatio5ae0f00f#\fc8c48c599d389c092583c5fc0f6e563\PresentationFramework.ni.dll
+		10.0.19041.1706 (WinBuild.160101.0800)C:\WINDOWS\WinSxS\x86_microsoft.windows.gdiplus_6595b64144ccf1df_1.1.19041.1706_none_d94bc52be10975a7\gdiplus.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DWrite.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\MSCTF.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xaml\7a396e1d2c8a237861d51047acc444dd\System.Xaml.ni.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\wpfgfx_v0400.dll
+		14.10.25028.0 built by: VCTOOLSD15RTMC:\WINDOWS\SYSTEM32\MSVCP140_CLR0400.dll
+		4.8.4515.0 built by: NET48REL1LAST_CC:\Windows\Microsoft.NET\Framework\v4.0.30319\WPF\PresentationNative_v0400.dll
+		2001.12.10941.16384 (WinBuild.160101.0800)C:\WINDOWS\System32\clbcatq.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\RegistryUtil.dll
+		14.31.31103.0                 C:\WINDOWS\SYSTEM32\VCRUNTIME140.dll
+		14.31.31103.0                 C:\WINDOWS\SYSTEM32\mfc140.dll
+		                              C:\WINDOWS\System32\TextShaping.dll
+		10.0.19041.1706 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WindowsCodecs.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\textinputframework.dll
+		10.0.19041.546                C:\WINDOWS\System32\CoreUIComponents.dll
+		10.0.19041.867                C:\WINDOWS\System32\CoreMessaging.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\WS2_32.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ntmarta.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\wintypes.dll
+		6.10 (WinBuild.160101.0800)   C:\WINDOWS\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.19041.1110_none_a8625c1886757984\comctl32.dll
+		4.8.4084.0 built by: NET48REL1C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Numerics\d06877b5a0df441a8dc4c7b8d95b5d41\System.Numerics.ni.dll
+		4.8.4455.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runteb92aa12#\8e4de111e65ece1e7f697fff168a1289\System.Runtime.Serialization.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Xml.Linq\d91a4c34da1e51775d21ec2378593c32\System.Xml.Linq.ni.dll
+		4.8.4455.0 built by: NET48REL1LAST_CC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Data\b33508951b10a4a6b8165cf7244a1245\System.Data.ni.dll
+		4.8.4455.0 built by: NET48REL1LAST_CC:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\CRYPT32.dll
+		11.00.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\urlmon.dll
+		11.00.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\iertutil.dll
+		10.0.19041.1645 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\srvcli.dll
+		10.0.19041.1466 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\netutils.dll
+		10.0.19041.1586 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\SspiCli.dll
+		7.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\PROPSYS.dll
+		4.8.4261.0 built by: NET48REL1LAST_BC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Security\618d2c58a817810e78ce5203261ca9c1\System.Security.ni.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\system32\IconCodecService.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DWMAPI.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\d3d9.dll
+		31.0.15.1640                  C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_684a7b4cdb809f6b\nvldumd.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\msasn1.dll
+		10.0.19041.906 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\cryptnet.dll
+		10.0.19041.1566 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\drvstore.dll
+		10.0.19041.1620 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\devobj.dll
+		10.0.19041.1620 (WinBuild.160101.0800)C:\WINDOWS\System32\cfgmgr32.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\System32\WINTRUST.DLL
+		10.0.19041.1415 (WinBuild.160101.0800)C:\WINDOWS\System32\imagehlp.dll
+		31.0.15.1640                  C:\WINDOWS\System32\DriverStore\FileRepository\nvlti.inf_amd64_684a7b4cdb809f6b\nvd3dum.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINMM.dll
+		30.0.101.1340                 C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igdumdim32.dll
+		30.0.101.1340                 C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igd9dxva32.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\SETUPAPI.dll
+		30.0.101.1340                 C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igdgmm32.dll
+		4.8.4084.0 built by: NET48REL1C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\Presentatioaec034ca#\20f3875e79c37f22e393fd5fa7b4f531\PresentationFramework.Aero2.ni.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\mscms.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\USERENV.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ColorAdapterClient.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WindowsCodecsExt.dll
+		10.0.19041.1387 (WinBuild.160101.0800)C:\WINDOWS\system32\dataexchange.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\system32\d3d11.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\system32\dcomp.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\system32\dxgi.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\twinapi.appcore.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\psapi.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\sxs.dll
+		2020.0.0.319                  D:\1. Workplace\3. LoadRunner\bin\RecentScripts.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\mosifs32.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\wrapicu.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\thrdutil.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\IPHLPAPI.DLL
+		55, 1, 0, 0                   D:\1. Workplace\3. LoadRunner\bin\icuuc55.dll
+		55, 1, 0, 0                   D:\1. Workplace\3. LoadRunner\bin\icudt55.dll
+		4.8.4494.0 built by: NET48REL1LAST_BC:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Web\eea1d3dee084895158a9bfa490b3ad11\System.Web.ni.dll
+		4.8.4494.0 built by: NET48REL1LAST_BC:\Windows\Microsoft.NET\Framework\v4.0.30319\webengine4.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\mswsock.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\appresolver.dll
+		10.0.19041.1566 (WinBuild.160101.0800)C:\Windows\System32\Bcp47Langs.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\SLC.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\sppc.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\LINKINFO.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ntshrui.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\cscapi.dll
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\policymanager.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\msvcp110_win.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\snapshotloaderwrap.dll
+		7.2.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\UIAutomationCore.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\ViewerGen.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\atlthunk.dll
+		11.00.19041.1503 (WinBuild.160101.0800)C:\Windows\System32\ieframe.dll
+		10.0.19041.1682 (WinBuild.160101.0800)C:\Windows\System32\NETAPI32.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\WINHTTP.dll
+		10.0.19041.1645 (WinBuild.160101.0800)C:\Windows\System32\WKSCLI.DLL
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DNSAPI.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\WINDOWS\System32\NSI.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\Windows\System32\rasadhlp.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\fwpuclnt.dll
+		14.8.4084.0 built by: NET48REL1C:\Windows\Microsoft.NET\Framework\v4.0.30319\diasymreader.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MsftEdit.DLL
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\wtsapi32.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINSTA.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\powrprof.dll
+		                              C:\WINDOWS\SYSTEM32\UMPDC.dll
+		11.00.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\msIso.dll
+		11.00.19041.320 (WinBuild.160101.0800)C:\Windows\System32\mshtml.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\msctfui.dll
+		11.00.19041.320 (WinBuild.160101.0800)C:\Windows\System32\WININET.dll
+		10.0.19041.1081 (WinBuild.160101.0800)C:\Windows\System32\srpapi.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\mlang.dll
+		11.00.19041.1566              C:\Windows\System32\ieapfltr.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\ielpview.dll
+		14.31.31103.0                 C:\WINDOWS\SYSTEM32\MSVCP140.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\AsmHook.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\VirFileSystemMng.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\VirPrivateProfiles.dll
+		3.25.1.27                     C:\WINDOWS\system32\nvspcap.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\gpapi.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dxcore.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\msimtf.dll
+		3.10.349.0                    C:\Windows\System32\msls31.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\d2d1.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\d3d10warp.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\Secur32.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\explorerframe.dll
+		10.0.19041.1266 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\rasapi32.dll
+		10.0.19041.1682 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\rasman.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\rtutils.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINNSI.DLL
+		                              C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igdinfo32.dll
+		30.0.101.1340                 C:\WINDOWS\System32\DriverStore\FileRepository\iigd_dch.inf_amd64_1dc9fc8d5e442f6a\igc32.dll
+		10.0.17134.12 (WinBuild.160101.0800)D:\1. Workplace\3. LoadRunner\bin\D3DCOMPILER_47.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\Windows.Globalization.dll
+		10.0.19041.1503 (WinBuild.160101.0800)C:\Windows\System32\bcp47mrm.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\globinputhost.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\schannel.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\mskeyprotect.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\NTASN1.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ncrypt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\system32\ncryptsslp.dll
+		7.2.19041.746 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\OLEACC.dll
+		4.18.2205.7 (WinBuild.160101.0800)C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\x86\MpDetoursCopyAccelerator.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\coparamui.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\PathResolver.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\paramui.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\MPR.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\parameng.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\dtable32.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\is32.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\lr_vug32.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\msg_handler.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\mlib_ds.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\config.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\run_time_context.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\libxdrutil.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\inifile.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\runlogic.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\MultiVuser.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\vusercfg.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\xdr.dll
+		24, 3, 0, 0                   D:\1. Workplace\3. LoadRunner\bin\BCGCBPRO2430140.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\rtc_protocol.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\comm_util.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\COMDLG32.dll
+		10.0.19041.1023 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WINSPOOL.DRV
+		10.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ODBC32.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DPAPI.DLL
+		10.0.19041.1466 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\msimg32.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramlr.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramtbl.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\mmdtable.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\libmemmap.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\mmdbigtable.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramcst.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramunq.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramfnc.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramss.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramdte.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramvar.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\paramrnd.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\ArchiveManager.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\runlogicview.ocx
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\HP.LR.VuGen.ScriptHandlerComWrapper.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\lrscripthandler.DLL
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\webscripthandler.DLL
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebStepClsDesign.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebStepClsShared.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\mshtmtr.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\DynWininet.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\wraplwcrypto.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LrXmlScriptHandler.DLL
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\ReplayBinaryUtils32.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\WSOCK32.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\websteps_scripthandler.DLL
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\base_scripthandler.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\RICHED32.DLL
+		5.31.23.1231                  C:\WINDOWS\SYSTEM32\RICHED20.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\USP10.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebUIRes.DLL
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\webservice_scripthandler.DLL
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\ServiceManagementLight.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WSDLSDK.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebServicesSDK.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\SoapRecordFilter.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\XmlParserInterface.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LrJni.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WSDLParser.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WSDLUtilsU.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WsCommonLogger.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\HttpUtils.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\ConfigurationUtil.dll
+		3, 1, 2, 0                    D:\1. Workplace\3. LoadRunner\bin\xerces-c_3_1.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\mic_regex.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\MicXMLDiffTool.dll
+		1, 11, 0, 0                   D:\1. Workplace\3. LoadRunner\bin\Xalan-C_1_11.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WSDLToolkits.dll
+		                              D:\1. Workplace\3. LoadRunner\bin\XalanMessages_1_11.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\soap_scripthandler.DLL
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\ParamUINotification.dll
+		0.22.0                        D:\1. Workplace\3. LoadRunner\bin\NativeBinaries\x86\git2-a56db99.DLL
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\HP.LR.VuGen.LrVugHelper.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\TextContainer.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\coml2.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\Windows.ApplicationModel.dll
+		4.8.4084.0                    C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runtbff93e24#\f86201c84473368550d4221465c81d36\System.Runtime.InteropServices.WindowsRuntime.ni.dll
+		4.8.4084.0 built by: NET48REL1C:\WINDOWS\assembly\NativeImages_v4.0.30319_32\System.Runt0d283adf#\f1ccfbd3a5f23c0b8af5a64bb70409a5\System.Runtime.WindowsRuntime.ni.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\twinapi.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\rtsxdlg.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\ipng_utils.dll
+		1.1.1b                        D:\1. Workplace\3. LoadRunner\bin\libssl-lt-1_1.dll
+		1.1.1b                        D:\1. Workplace\3. LoadRunner\bin\libcrypto-lt-1_1.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\trans.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\wrapzlib.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\lr_exp.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\trans_server.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\libdatatypes.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\data_types_ifs.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\timediff_ext.dll
+		10.0.16299.91 (WinBuild.160101.0800)D:\1. Workplace\3. LoadRunner\bin\dbghelp.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\jrequestor_srv.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\dc_requests.dll
+		10.0.16299.91 (WinBuild.160101.0800)D:\1. Workplace\3. LoadRunner\bin\dbgcore.DLL
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\comrec_tab.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\script_language_helper.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\tlb_query.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\api_scrinfo.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\unknown_only_helper.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\xmlstorage.dll
+		8.110.19041.844               C:\WINDOWS\System32\msxml3.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\edputil.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\vugen_record_api.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\insp_gen.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\inspdll.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\pefile.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\Api_Filter_Helper.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\HTTPSnapshotsWrapper.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\type_info_pool.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\CodeGenerationAPI.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\InternalSDKUtils.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LRSDKUtilities.dll
+		                              D:\1. Workplace\3. LoadRunner\bin\WebEventTrafficMap.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\VuGenCallback.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\traffic_filter.dll
+		                              D:\1. Workplace\3. LoadRunner\bin\pcre-8.42.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\threadsafefileoperator.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\TulipAppInfo.dll
+		4.18.2205.7 (WinBuild.160101.0800)C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.2205.7-0\x86\mpclient.dll
+		                              D:\1. Workplace\3. LoadRunner\bin\duktape.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\lrun50.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\merc_uuid.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\faserver.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\JsonParser.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\JsonParserWrapper.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\MicSocket.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\SSFMgrWrapper.dll
+		20.0.0.610                    D:\1. Workplace\3. LoadRunner\bin\RealFileSystem.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\ondemandconnroutehelper.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\icm32.dll
+		11.00.19041.320 (WinBuild.160101.0800)C:\Windows\System32\jscript9.dll
+		4.8.4084.0 built by: NET48REL1C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Transactions\v4.0_4.0.0.0__b77a5c561934e089\System.Transactions.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\vaultcli.dll
+		10.0.19041.746 (WinBuild.160101.0800)C:\WINDOWS\System32\UIAnimation.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Program Files (x86)\Common Files\microsoft shared\ink\tiptsf.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\thumbcache.dll
+		22.121.0605.0002              C:\Users\Sangu\AppData\Local\Microsoft\OneDrive\22.121.0605.0002\i386\FileSyncShell.dll
+		2020.0.0.248                  D:\1. Workplace\3. LoadRunner\bin\HP.LR.VuGen.VugenIconOverlayHandler.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\drprov.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\ntlanman.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\davclnt.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\DAVHLPR.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\dlnashext.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\DevDispItemProvider.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\wpdshext.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\PortableDeviceApi.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\audiodev.dll
+		12.0.19041.1682 (WinBuild.160101.0800)C:\WINDOWS\system32\WMVCore.DLL
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\system32\mfperfhelper.dll
+		12.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\system32\WMASF.DLL
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\Windows.FileExplorer.Common.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\Windows\System32\PlayToDevice.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\MMDevApi.dll
+		6.2.0                         C:\Program Files (x86)\WinRAR\rarext.dll
+		10.0.19041.1466 (WinBuild.160101.0800)C:\Windows\System32\Windows.StateRepositoryPS.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\twext.dll
+		10.0.19041.610 (WinBuild.160101.0800)C:\WINDOWS\System32\shacct.dll
+		19.00                         C:\Program Files\7-Zip\7-zip32.dll
+		10.0.19041.746 (WinBuild.160101.0800)C:\WINDOWS\System32\IDStore.dll
+		10.0.19041.1682 (WinBuild.160101.0800)C:\WINDOWS\System32\SAMLIB.dll
+		10.0.19041.746 (WinBuild.160101.0800)C:\WINDOWS\System32\wlidprov.dll
+		10.0.19041.1466 (WinBuild.160101.0800)C:\WINDOWS\System32\samcli.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\System32\provsvc.dll
+		7.0.19041.746 (WinBuild.160101.0800)C:\WINDOWS\System32\StructuredQuery.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\System32\MSWB7.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\system32\Windows.Storage.Search.dll
+		10.0.19041.546 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\XmlLite.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DUI70.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\DUser.dll
+		10.0.19041.1 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\CHARTV.dll
+		10.0.19041.1682 (WinBuild.160101.0800)C:\Windows\System32\OneCoreUAPCommonProxyStub.dll
+		7.0.19041.1741 (WinBuild.160101.0800)C:\WINDOWS\system32\mssprxy.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\api_inspector.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\trpfnc32.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\lrc_basic_filters.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\api_event_parser.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\api_sock_filter.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebDataFormatsCodeGen.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\DataFormatsEngine.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebSnapshotsCommon.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebSocketFilter.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\VnpLog.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\VnpUtils.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebHTMLCodeGen.dll
+		2.9.0                         D:\1. Workplace\3. LoadRunner\bin\cpprest140_2_9.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebRecorder.dll
+		                              D:\1. Workplace\3. LoadRunner\bin\boost_filesystem-vc140-mt-1_60.dll
+		                              D:\1. Workplace\3. LoadRunner\bin\boost_system-vc140-mt-1_60.dll
+		10.0.19041.320 (WinBuild.160101.0800)C:\WINDOWS\SYSTEM32\HTTPAPI.dll
+		14.31.31103.0                 C:\WINDOWS\SYSTEM32\CONCRT140.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LrwiWebInfra.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebCorrelation.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LrwiStreamingParser.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\jconv_str.dll
+		2020.0.0.267                  D:\1. Workplace\3. LoadRunner\bin\http_auth.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LrXml.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\LrJson.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\VnpReport.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebConvertFromFormattedFilter.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebConvertFromFormattedPostFilter.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebExtractServerNameFilter.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\lrc_com_filters.dll
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\WebRemoveLongBodyFilter.DLL
+		2020.0.0.793                  D:\1. Workplace\3. LoadRunner\bin\lrc_code_gen_filter.dll
