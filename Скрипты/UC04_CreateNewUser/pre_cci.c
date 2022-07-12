@@ -2619,7 +2619,7 @@ homepage() {
 login() {
     lr_start_transaction("login");
 	
-	web_reg_find("Text=Using the menu to the left, you can search for new flights to book, or review/edit the flights already booked. Don't forget to sign off when you're done! ", "LAST");
+	web_reg_find("Text=User password was correct", "LAST");
 	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("login.pl",
@@ -2685,6 +2685,8 @@ vuser_init()
 # 1 "Action.c" 1
 Action()
 {
+	lr_start_transaction("UC04_CreateNewUser");
+	
 	 
 
 	homepage();
@@ -2760,6 +2762,8 @@ Action()
 	 
 	
 	logout();
+	
+	lr_end_transaction("UC04_CreateNewUser", 2);
 
 	return 0;
 }

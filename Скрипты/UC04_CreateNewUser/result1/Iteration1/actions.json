@@ -6,61 +6,68 @@
                 "stepId": "STEP1",
                 "stepName": "Url: WebTours",
                 "infFile": "t2.inf",
-                "time": 1657635975306
+                "time": 1657654468462
             },
             {
                 "stepId": "STEP2",
                 "stepName": "Url: sign up now",
                 "infFile": "t3.inf",
-                "time": 1657635975498
+                "time": 1657654468660
             },
             {
                 "stepId": "STEP3",
                 "stepName": "Submit Data: login.pl",
                 "infFile": "t4.inf",
-                "time": 1657635975667
+                "time": 1657654468841
             },
             {
                 "stepId": "STEP4",
                 "stepName": "Url: button_next.gif",
                 "infFile": "t5.inf",
-                "time": 1657635975923
+                "time": 1657654469114
             },
             {
                 "stepId": "STEP5",
                 "stepName": "Url: SignOff Button",
                 "infFile": "t6.inf",
-                "time": 1657635976102
+                "time": 1657654469297
             }
         ],
         "transactions": [
             {
                 "transactionName": "homepage",
-                "rawStartTime": 1657635974997,
-                "rawEndTime": 1657635975308,
+                "rawStartTime": 1657654468125,
+                "rawEndTime": 1657654468462,
                 "thinkTime": 0.0,
-                "wastedTime": 0.13687658309936524
+                "wastedTime": 0.1559586524963379
             },
             {
                 "transactionName": "sign_up",
-                "rawStartTime": 1657635975320,
-                "rawEndTime": 1657635975675,
+                "rawStartTime": 1657654468475,
+                "rawEndTime": 1657654468858,
                 "thinkTime": 0.0,
-                "wastedTime": 0.0159609317779541
+                "wastedTime": 0.015571117401123047
             },
             {
                 "transactionName": "continue",
-                "rawStartTime": 1657635975691,
-                "rawEndTime": 1657635975938,
+                "rawStartTime": 1657654468861,
+                "rawEndTime": 1657654469127,
                 "thinkTime": 0.0,
-                "wastedTime": 0.010236740112304688
+                "wastedTime": 0.010917901992797852
             },
             {
                 "transactionName": "logout",
-                "rawStartTime": 1657635975953,
-                "rawEndTime": 1657635976102,
+                "rawStartTime": 1657654469142,
+                "rawEndTime": 1657654469298,
                 "thinkTime": 0.0,
-                "wastedTime": 0.007864236831665039
+                "wastedTime": 0.006675243377685547
+            },
+            {
+                "transactionName": "UC04_CreateNewUser",
+                "rawStartTime": 1657654468110,
+                "rawEndTime": 1657654469314,
+                "thinkTime": 0.0,
+                "wastedTime": 0.18912291526794434
             }
         ]
     }

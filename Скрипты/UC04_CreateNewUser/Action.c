@@ -1,5 +1,7 @@
 Action()
 {
+	lr_start_transaction("UC04_CreateNewUser");
+	
 	/* HOMEPAGE */
 
 	homepage();
@@ -75,6 +77,8 @@ Action()
 	/* LOGOUT */
 	
 	logout();
+	
+	lr_end_transaction("UC04_CreateNewUser", LR_AUTO);
 
 	return 0;
 }

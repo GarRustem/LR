@@ -52,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="sign_up__*delimiter*__continue"
+Order="sign_up__*delimiter*__continue__*delimiter*__UC04_CreateNewUser"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -61,3 +61,4 @@ ActiveRunName=result1
 [Transactions]
 sign_up=
 continue=
+UC04_CreateNewUser=
