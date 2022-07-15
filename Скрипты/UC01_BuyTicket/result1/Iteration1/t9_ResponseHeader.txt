@@ -1,8 +1,8 @@
 HTTP/1.1 200 OK
-Date: Tue, 12 Jul 2022 15:12:07 GMT
+Date: Fri, 15 Jul 2022 19:21:34 GMT
 Server: Apache/2.2.21 (Win32)
-Expires: Mon, 11 Jul 2022 15:12:07 GMT
-Set-Cookie: MTUserInfo=firstName&Jojo&username&jojo&address2&&hash&47&address1&&lastName&Bean%0A; path=/
+Expires: Thu, 14 Jul 2022 19:21:34 GMT
+Set-Cookie: MTUserInfo=firstName&Vartag&username&vartag&address2&&hash&71&address1&&lastName&Avorn%0A; path=/
 Keep-Alive: timeout=5, max=90
 Connection: Keep-Alive
 Transfer-Encoding: chunked

@@ -2,19 +2,24 @@ Action()
 {
 	lr_start_transaction("UC05_Itinerary");
 	
+	
 	/* HOMEPAGE */
 	
 	homepage();
 	
+	
 	/* LOGIN */
 	
 	login();
+	
 
 	/* ITINERARY */
 
-	lr_think_time(80);
-
 	lr_start_transaction("go_itinerary");
+	
+	web_reg_find("Text=scheduled flights", LAST);
+	
+	lr_think_time(5);
 	
 	web_url("welcome.pl", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 
@@ -27,9 +32,11 @@ Action()
 		LAST);
 	lr_end_transaction("go_itinerary",LR_AUTO);
 	
+	
 	/* LOGOUT */
 	
 	logout();
+	
 	
 	lr_end_transaction("UC05_Itinerary",LR_AUTO);
 

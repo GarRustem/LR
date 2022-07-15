@@ -1,5 +1,5 @@
 # 1 "c:\\users\\sangu\\documents\\vugen\\scripts\\uc01_buyticket\\\\combined_UC01_BuyTicket.c"
-# 1 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
 
@@ -26,7 +26,7 @@
 
 
 
-# 103 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 103 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -187,7 +187,7 @@ int lr_generate_uuid_free(lr_uuid_t uuid);
 int lr_generate_uuid_on_buf(lr_uuid_t buf);
 
    
-# 273 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 273 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int lr_start_distributed_transaction  (char * transaction_name, lr_uuid_t correlator, long timeout  );
 
    
@@ -428,11 +428,11 @@ int   lr_msg (char * fmt, ...);
 int   lr_debug_message (unsigned int msg_class,
 									    char * format,
 										...);
-# 513 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 513 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_new_prefix (int type,
                                  char * filename,
                                  int line);
-# 516 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 516 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_log_message (char * fmt, ...);
 int   lr_message (char * fmt, ...);
 int   lr_error_message (char * fmt, ...);
@@ -446,7 +446,7 @@ int   lr_fail_trans_with_error (char * fmt, ...);
  
  
  
-# 540 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 540 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
  
  
@@ -481,7 +481,7 @@ int   lr_eval_string_ext (const char *in_str,
                                      unsigned long const options,
                                      const char *file,
 								     long const line);
-# 574 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 574 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_eval_string_ext_free (char * * pstr);
 
  
@@ -505,7 +505,7 @@ void   lr_eval_string_ext_free (char * * pstr);
  
 int lr_param_increment (char * dst_name,
                               char * src_name);
-# 597 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 597 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -530,7 +530,7 @@ int	  lr_save_var (char *              param_val,
 							  unsigned long const param_val_len,
 							  unsigned long const options,
 							  char *			  param_name);
-# 621 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 621 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_save_string (const char * param_val, const char * param_name);
 
 
@@ -554,7 +554,7 @@ int   lr_convert_double_to_double (const char *source_param_name, const char *fo
  
  
  
-# 700 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 700 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_save_datetime (const char *format, int offset, const char *name);
 
 
@@ -616,7 +616,7 @@ char * lr_table_get_cell_by_col_name (char * param_name, int row, const char* co
 int lr_table_get_column_name_by_index (char * param_name, int col, 
 											char * * const col_name,
 											size_t * col_name_len);
-# 761 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 761 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int lr_table_get_column_name_by_index_free (char * col_name);
 
@@ -624,7 +624,7 @@ int lr_table_get_column_name_by_index_free (char * col_name);
  
  
  
-# 776 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 776 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 int   lr_zip (const char* param1, const char* param2);
 int   lr_unzip (const char* param1, const char* param2);
 
@@ -649,12 +649,12 @@ int   lr_param_substit (char * file,
                                    size_t const in_len,
                                    char * * const out_str,
                                    size_t * const out_len);
-# 800 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 800 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 void   lr_param_substit_free (char * * pstr);
 
 
  
-# 812 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 812 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -663,14 +663,14 @@ void   lr_param_substit_free (char * * pstr);
 char *   lrfnc_eval_string (char * str,
                                       char * file_name,
                                       long const line_num);
-# 820 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 820 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 int   lrfnc_save_string ( const char * param_val,
                                      const char * param_name,
                                      const char * file_name,
                                      long const line_num);
-# 826 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 826 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int   lrfnc_free_parameter (const char * param_name );
 
@@ -697,7 +697,7 @@ int lr_save_searched_string(char * buffer, long buf_size, unsigned int occurrenc
 char *   lr_string (char * str);
 
  
-# 929 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 929 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 int   lr_save_value (char * param_val,
                                 unsigned long const param_val_len,
@@ -705,7 +705,7 @@ int   lr_save_value (char * param_val,
                                 char * param_name,
                                 char * file_name,
                                 long const line_num);
-# 936 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 936 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
  
@@ -728,7 +728,7 @@ int   lr_printf (char * fmt, ...);
  
 int   lr_set_debug_message (unsigned int msg_class,
                                        unsigned int swtch);
-# 958 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 958 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 unsigned int   lr_get_debug_message (void);
 
 
@@ -758,7 +758,7 @@ int *   lr_localtime (long offset);
 int   lr_send_port (long port);
 
 
-# 1034 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 1034 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -776,10 +776,10 @@ void vuser_declaration (void);
 
 
 
-# 1063 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 1063 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
-# 1075 "D:\\1. Workplace\\3. LoadRunner\\include/lrun.h"
+# 1075 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h"
 
 
 
@@ -968,7 +968,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 # 1 "c:\\users\\sangu\\documents\\vugen\\scripts\\uc01_buyticket\\\\combined_UC01_BuyTicket.c" 2
 
-# 1 "D:\\1. Workplace\\3. LoadRunner\\include/SharedParameter.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
 
 
@@ -976,7 +976,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
  
  
  
-# 100 "D:\\1. Workplace\\3. LoadRunner\\include/SharedParameter.h"
+# 100 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h"
 
 
 
@@ -1141,7 +1141,7 @@ extern VTCERR2  lrvtc_noop();
  
  
 
-# 1 "D:\\1. Workplace\\3. LoadRunner\\include/web_api.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 1
 
 
 
@@ -1149,7 +1149,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 1 "D:\\1. Workplace\\3. LoadRunner\\include/as_web.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h" 1
 
 
 
@@ -1928,13 +1928,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 789 "D:\\1. Workplace\\3. LoadRunner\\include/as_web.h"
+# 789 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
-# 802 "D:\\1. Workplace\\3. LoadRunner\\include/as_web.h"
-
-
-
+# 802 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
 
@@ -1959,7 +1956,10 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 840 "D:\\1. Workplace\\3. LoadRunner\\include/as_web.h"
+
+
+
+# 840 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
  
  
@@ -2006,7 +2006,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 908 "D:\\1. Workplace\\3. LoadRunner\\include/as_web.h"
+# 908 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/as_web.h"
 
 
   int
@@ -2101,7 +2101,7 @@ web_stream_set_custom_mpd(
 
 
 
-# 9 "D:\\1. Workplace\\3. LoadRunner\\include/web_api.h" 2
+# 9 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/web_api.h" 2
 
 
 
@@ -2576,7 +2576,7 @@ void
 
 # 7 "globals.h" 2
 
-# 1 "D:\\1. Workplace\\3. LoadRunner\\include/lrw_custom_body.h" 1
+# 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrw_custom_body.h" 1
  
 
 
@@ -2621,7 +2621,6 @@ login() {
     lr_start_transaction("login");
 	
 	web_reg_find("Text=User password was correct", "LAST");
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2649,8 +2648,6 @@ logout() {
 	lr_start_transaction("logout");
 
 	web_reg_find("Text=Welcome to the Web Tours site", "LAST");
-	
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
@@ -2686,25 +2683,24 @@ Action()
 {
 	lr_start_transaction("UC01_BuyTicket");
 	
+	
 	 
 	
 	homepage();
 	
+	
 	 
 	
 	login();
+	
 
 	 
-
-	lr_think_time(24);
 
 	lr_start_transaction("buy_ticket_flights");
 	
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
+	web_reg_find("Text=Flight Selections", "LAST");
 	
-	 
-	
-	 
+	lr_think_time(5);
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -2717,14 +2713,15 @@ Action()
 		"LAST");
 
 	lr_end_transaction("buy_ticket_flights",2);
+	
 
 	 
 
-	lr_think_time(108);
-
 	lr_start_transaction("buy_ticket_find_flight");
 	
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
+	web_reg_find("Text=Flight Selections", "LAST");
+	
+	lr_think_time(5);
 
  
 	web_reg_save_param_attrib(
@@ -2758,9 +2755,9 @@ Action()
 		"Mode=HTML",
 		"ITEMDATA",
 		"Name=advanceDiscount", "Value=0", "ENDITEM",
-		"Name=depart", "Value={departCity}", "ENDITEM",
+		"Name=depart", "Value={city}", "ENDITEM",
 		"Name=departDate", "Value={departDate}", "ENDITEM",
-		"Name=arrive", "Value={arrivalCity}", "ENDITEM",
+		"Name=arrive", "Value={city}", "ENDITEM",
 		"Name=returnDate", "Value={returnDate}", "ENDITEM",
 		"Name=numPassengers", "Value=1", "ENDITEM",
 		"Name=roundtrip", "Value=on", "ENDITEM",
@@ -2774,16 +2771,15 @@ Action()
 		"LAST");
 
 	lr_end_transaction("buy_ticket_find_flight",2);
+	
 
 	 
-
-	lr_think_time(76);
 
 	lr_start_transaction("buy_ticket_select_flight");
 	
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
+	web_reg_find("Text=Flight Reservation", "LAST");
 	
-	 
+	lr_think_time(5);
 
 	web_submit_data("reservations.pl_2",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -2805,14 +2801,15 @@ Action()
 		"LAST");
 
 	lr_end_transaction("buy_ticket_select_flight",2);
+	
 
 	 
 
-	lr_think_time(63);
-
 	lr_start_transaction("buy_ticket_payment_details");
 	
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
+	web_reg_find("Text=Reservation Made!", "LAST");
+	
+	lr_think_time(5);
 
 	web_submit_data("reservations.pl_3",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -2825,8 +2822,8 @@ Action()
 		"ITEMDATA",
 		"Name=firstName", "Value={firstName}", "ENDITEM",
 		"Name=lastName", "Value={lastName}", "ENDITEM",
-		"Name=address1", "Value=Palm st.", "ENDITEM",
-		"Name=address2", "Value=New York", "ENDITEM",
+		"Name=address1", "Value={homeStreet}", "ENDITEM",
+		"Name=address2", "Value={homeCity}", "ENDITEM",
 		"Name=pass1", "Value={firstName} {lastName}", "ENDITEM",
 		"Name=creditCard", "Value={creditCard}", "ENDITEM",
 		"Name=expDate", "Value={expDate}", "ENDITEM",
@@ -2844,10 +2841,12 @@ Action()
 		"LAST");
 
 	lr_end_transaction("buy_ticket_payment_details",2);
+	
 
 	 
 
 	logout();
+	
 	
 	lr_end_transaction("UC01_BuyTicket", 2);
 

@@ -2620,7 +2620,6 @@ login() {
     lr_start_transaction("login");
 	
 	web_reg_find("Text=User password was correct", "LAST");
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_submit_data("login.pl",
 		"Action=http://localhost:1080/cgi-bin/login.pl",
@@ -2648,8 +2647,6 @@ logout() {
 	lr_start_transaction("logout");
 
 	web_reg_find("Text=Welcome to the Web Tours site", "LAST");
-	
-	web_reg_find("Text=Error", "Fail=Found", "LAST");
 
 	web_url("SignOff Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?signOff=1", 
@@ -2685,19 +2682,24 @@ Action()
 {
 	lr_start_transaction("UC05_Itinerary");
 	
+	
 	 
 	
 	homepage();
 	
+	
 	 
 	
 	login();
+	
 
 	 
 
-	lr_think_time(80);
-
 	lr_start_transaction("go_itinerary");
+	
+	web_reg_find("Text=scheduled flights", "LAST");
+	
+	lr_think_time(5);
 	
 	web_url("welcome.pl", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=itinerary", 

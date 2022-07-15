@@ -16,7 +16,11 @@
     <FileEntry Name="combined_UC05_Itinerary.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="20866339440.idx" Filter="1" />
+    <FileEntry Name="2086633944_33o.243.idx" Filter="1" />
+    <FileEntry Name="2086633944_pEl.519.idx" Filter="1" />
     <FileEntry Name="230295449440.idx" Filter="1" />
+    <FileEntry Name="23029544944_1qF.244.idx" Filter="1" />
+    <FileEntry Name="23029544944_pgR.520.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
@@ -24,6 +28,7 @@
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="lrw_custom_body.h" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvVot.383.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

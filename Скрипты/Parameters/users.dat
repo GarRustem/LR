@@ -1,11 +1,11 @@
-login,password,departCity,arrivalCity,seatPref,seatType,firstName,lastName,creditCard,expDate
-jojo,bean,Denver,Denver,Aisle,First,Jojo,Bean,123456789123,01/77
-john,smith,Frankfurt,Frankfurt,Window,Business,John,Smith,432156789123,02/78
-vartag,avorn,London,London,None,Coach,Vartag,Avorn,231487659523,03/79
-alice,cooper,Los Angeles,Los Angeles,Aisle,First,Alice,Cooper,142356782319,04/80
-will,jackson,Paris,Paris,Window,Business,Will,Jackson,876556789223,05/81
-samantha,rise,Portland,Portland,None,Coach,Samantha,Rise,789156789333,06/82
-alex,walkman,San Francisco,San Francisco,Aisle,First,Alex,Walkman,678956789112,07/83
-joe,bow,Seattle,Seattle,Window,Business,Joe,Bow,857891789457,08/84
-andy,shield,Sydney,Sydney,None,Coach,Andy,Shield,567856789341,09/85
-bruce,wayne,Zurich,Zurich,Aisle,First,Bruce,Wayne,785656789155,10/86
+login,password,firstName,lastName
+jojo,bean,Jojo,Bean
+john,smith,John,Smith
+vartag,avorn,Vartag,Avorn
+alice,cooper,Alice,Cooper
+will,jackson,Will,Jackson
+samantha,rise,Samantha,Rise
+alex,walkman,Alex,Walkman
+joe,bow,Joe,Bow
+andy,shield,Andy,Shield
+bruce,wayne,Bruce,Wayne

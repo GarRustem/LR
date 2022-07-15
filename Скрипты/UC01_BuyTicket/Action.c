@@ -2,25 +2,24 @@ Action()
 {
 	lr_start_transaction("UC01_BuyTicket");
 	
+	
 	/* HOMEPAGE */
 	
 	homepage();
 	
+	
 	/* LOGIN */
 	
 	login();
+	
 
 	/* FLIGHTS */
 
-	lr_think_time(24);
-
 	lr_start_transaction("buy_ticket_flights");
 	
-	web_reg_find("Text=Error", "Fail=Found", LAST);
+	web_reg_find("Text=Flight Selections", LAST);
 	
-	//web_reg_save_param_regexp("ParamName=Town","RegExp=\>(.*?)</option>",LAST);
-	
-	//web_reg_save_param_ex("ParamName=Town","LB=\<option value\=\"","RB=\">","Ordinal=All",LAST);
+	lr_think_time(5);
 
 	web_url("Search Flights Button", 
 		"URL=http://localhost:1080/cgi-bin/welcome.pl?page=search", 
@@ -33,14 +32,15 @@ Action()
 		LAST);
 
 	lr_end_transaction("buy_ticket_flights",LR_AUTO);
+	
 
 	/* FIND FLIGHT */
 
-	lr_think_time(108);
-
 	lr_start_transaction("buy_ticket_find_flight");
 	
-	web_reg_find("Text=Error", "Fail=Found", LAST);
+	web_reg_find("Text=Flight Selections", LAST);
+	
+	lr_think_time(5);
 
 /*Correlation comment - Do not change!  Original value='011;644;07/04/2022' Name ='outboundFlight' Type ='ResponseBased'*/
 	web_reg_save_param_attrib(
@@ -74,9 +74,9 @@ Action()
 		"Mode=HTML",
 		ITEMDATA,
 		"Name=advanceDiscount", "Value=0", ENDITEM,
-		"Name=depart", "Value={departCity}", ENDITEM,
+		"Name=depart", "Value={city}", ENDITEM,
 		"Name=departDate", "Value={departDate}", ENDITEM,
-		"Name=arrive", "Value={arrivalCity}", ENDITEM,
+		"Name=arrive", "Value={city}", ENDITEM,
 		"Name=returnDate", "Value={returnDate}", ENDITEM,
 		"Name=numPassengers", "Value=1", ENDITEM,
 		"Name=roundtrip", "Value=on", ENDITEM,
@@ -90,16 +90,15 @@ Action()
 		LAST);
 
 	lr_end_transaction("buy_ticket_find_flight",LR_AUTO);
+	
 
 	/* SELECT FLIGHT */
 
-	lr_think_time(76);
-
 	lr_start_transaction("buy_ticket_select_flight");
 	
-	web_reg_find("Text=Error", "Fail=Found", LAST);
+	web_reg_find("Text=Flight Reservation", LAST);
 	
-	//web_reg_save_param_ex("ParamName=Town","LB=\<option value\=\"","RB=\">","Ordinal=All",LAST);
+	lr_think_time(5);
 
 	web_submit_data("reservations.pl_2",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -121,14 +120,15 @@ Action()
 		LAST);
 
 	lr_end_transaction("buy_ticket_select_flight",LR_AUTO);
+	
 
 	/* PAYMENT DETAILS */
 
-	lr_think_time(63);
-
 	lr_start_transaction("buy_ticket_payment_details");
 	
-	web_reg_find("Text=Error", "Fail=Found", LAST);
+	web_reg_find("Text=Reservation Made!", LAST);
+	
+	lr_think_time(5);
 
 	web_submit_data("reservations.pl_3",
 		"Action=http://localhost:1080/cgi-bin/reservations.pl",
@@ -141,8 +141,8 @@ Action()
 		ITEMDATA,
 		"Name=firstName", "Value={firstName}", ENDITEM,
 		"Name=lastName", "Value={lastName}", ENDITEM,
-		"Name=address1", "Value=Palm st.", ENDITEM,
-		"Name=address2", "Value=New York", ENDITEM,
+		"Name=address1", "Value={homeStreet}", ENDITEM,
+		"Name=address2", "Value={homeCity}", ENDITEM,
 		"Name=pass1", "Value={firstName} {lastName}", ENDITEM,
 		"Name=creditCard", "Value={creditCard}", ENDITEM,
 		"Name=expDate", "Value={expDate}", ENDITEM,
@@ -160,10 +160,12 @@ Action()
 		LAST);
 
 	lr_end_transaction("buy_ticket_payment_details",LR_AUTO);
+	
 
 	/* LOGOUT */
 
 	logout();
+	
 	
 	lr_end_transaction("UC01_BuyTicket", LR_AUTO);
 

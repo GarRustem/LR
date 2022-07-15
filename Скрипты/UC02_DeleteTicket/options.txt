@@ -3,7 +3,7 @@
 -D_IDA_XL
 -DWINNT
 -IC:\Users\Sangu\Documents\VuGen\Scripts\UC02_DeleteTicket
--ID:\1. Workplace\3. LoadRunner\include
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
 -ec:\users\sangu\documents\vugen\scripts\uc02_deleteticket\\logfile.log
 c:\users\sangu\documents\vugen\scripts\uc02_deleteticket\\combined_UC02_DeleteTicket.c
 c:\users\sangu\documents\vugen\scripts\uc02_deleteticket\\pre_cci.c

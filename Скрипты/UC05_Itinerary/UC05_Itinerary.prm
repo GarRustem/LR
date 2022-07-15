@@ -1,11 +1,3 @@
-[parameter:flightNum]
-Format="%lu"
-GenerateNewVal="EachOccurrence"
-MaxValue="3"
-MinValue="1"
-OriginalValue=""
-ParamName="flightNum"
-Type="Random"
 [parameter:login]
 ColumnName="login"
 Delimiter=","

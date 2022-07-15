@@ -16,11 +16,16 @@
     <FileEntry Name="combined_UC03_UserAuth.c" Filter="2" />
     <FileEntry Name="pre_cci.c" Filter="2" />
     <FileEntry Name="182835299440.idx" Filter="1" />
+    <FileEntry Name="18283529944_K5r.363.idx" Filter="1" />
+    <FileEntry Name="18283529944_Ks3.375.idx" Filter="1" />
+    <FileEntry Name="18283529944_QKi.257.idx" Filter="1" />
+    <FileEntry Name="18283529944_ztk.847.idx" Filter="1" />
     <FileEntry Name="Bookmarks.xml" Filter="1" />
     <FileEntry Name="Breakpoints.xml" Filter="1" />
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvtHP.451.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

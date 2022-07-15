@@ -1,3 +1,2 @@
-"outboundFlight=280%3B2089%3B07%2F13%2F2022&returnFlight=820%3B2089%3B07%2F19%2F2022&numPasseng"
-"ers=1&advanceDiscount=0&seatType=Business&seatPref=Aisle&reserveFlights.x=38&reserveFlights.y="
-"9"
+"outboundFlight=010%3B723%3B07%2F17%2F2022&returnFlight=100%3B723%3B07%2F23%2F2022&numPassenger"
+"s=1&advanceDiscount=0&seatType=First&seatPref=Aisle&reserveFlights.x=38&reserveFlights.y=9"
