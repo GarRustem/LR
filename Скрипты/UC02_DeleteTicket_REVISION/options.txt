@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Sangu\Documents\VuGen\Scripts\UC02_DeleteTicket_REVISION
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\sangu\documents\vugen\scripts\uc02_deleteticket_revision\\logfile.log
+c:\users\sangu\documents\vugen\scripts\uc02_deleteticket_revision\\combined_UC02_DeleteTicket_REVISION.c
+c:\users\sangu\documents\vugen\scripts\uc02_deleteticket_revision\\pre_cci.c

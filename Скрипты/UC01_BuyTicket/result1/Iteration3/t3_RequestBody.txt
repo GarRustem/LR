@@ -1,0 +1,2 @@
+"userSession=134302.436452005zQAiViVpfHftVttQpAiQtf&username=vartag&password=avorn&JSFormSubmit"
+"=off&login.x=46&login.y=3"

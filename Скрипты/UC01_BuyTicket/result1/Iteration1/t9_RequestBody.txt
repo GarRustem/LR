@@ -1,4 +1,4 @@
-"firstName=Vartag&lastName=Avorn&address1=+Palm+st.&address2=New+York&pass1=Vartag+Avorn&credit"
-"Card=876556789223&expDate=02%2F78&oldCCOption=&numPassengers=1&seatType=First&seatPref=Aisle&o"
-"utboundFlight=010%3B723%3B07%2F17%2F2022&advanceDiscount=0&returnFlight=100%3B723%3B07%2F23%2F"
-"2022&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"
+"firstName=Jojo&lastName=Bean&address1=+Chinese+st.&address2=Moscow&pass1=Jojo+Bean&creditCard="
+"142356782319&expDate=05%2F81&oldCCOption=&numPassengers=1&seatType=Business&seatPref=None&outb"
+"oundFlight=010%3B559%3B07%2F17%2F2022&advanceDiscount=0&returnFlight=100%3B559%3B07%2F23%2F202"
+"2&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=35&buyFlights.y=8"

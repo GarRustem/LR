@@ -63,9 +63,9 @@ Action()
 	lr_end_transaction("user_details_form",LR_AUTO);
 	
 
-	/* CONTINUE */
+	/* CONTINUE REGISTRATION */
 
-	lr_start_transaction("continue");
+	lr_start_transaction("continue_reg");
 
 	web_reg_find("Text=Web Tours reservation pages", LAST);
 
@@ -81,7 +81,7 @@ Action()
 		"Mode=HTML", 
 		LAST);
 
-	lr_end_transaction("continue",LR_AUTO);
+	lr_end_transaction("continue_reg",LR_AUTO);
 	
 	
 	/* REGISTRATION CONGRATULATIONS */

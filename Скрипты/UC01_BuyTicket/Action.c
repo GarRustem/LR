@@ -15,7 +15,7 @@ Action()
 
 	/* FLIGHTS */
 
-	lr_start_transaction("buy_ticket_flights");
+	lr_start_transaction("flights");
 	
 	web_reg_find("Text=Flight Selections", LAST);
 	
@@ -31,12 +31,12 @@ Action()
 		"Mode=HTML", 
 		LAST);
 
-	lr_end_transaction("buy_ticket_flights",LR_AUTO);
+	lr_end_transaction("flights",LR_AUTO);
 	
 
 	/* FIND FLIGHT */
 
-	lr_start_transaction("buy_ticket_find_flight");
+	lr_start_transaction("find_flight");
 	
 	web_reg_find("Text=Flight Selections", LAST);
 	
@@ -89,12 +89,12 @@ Action()
 		"Name=findFlights.y", "Value=8", ENDITEM,
 		LAST);
 
-	lr_end_transaction("buy_ticket_find_flight",LR_AUTO);
+	lr_end_transaction("find_flight",LR_AUTO);
 	
 
 	/* SELECT FLIGHT */
 
-	lr_start_transaction("buy_ticket_select_flight");
+	lr_start_transaction("select_flight");
 	
 	web_reg_find("Text=Flight Reservation", LAST);
 	
@@ -119,12 +119,12 @@ Action()
 		"Name=reserveFlights.y", "Value=9", ENDITEM,
 		LAST);
 
-	lr_end_transaction("buy_ticket_select_flight",LR_AUTO);
+	lr_end_transaction("select_flight",LR_AUTO);
 	
 
 	/* PAYMENT DETAILS */
 
-	lr_start_transaction("buy_ticket_payment_details");
+	lr_start_transaction("payment_details");
 	
 	web_reg_find("Text=Reservation Made!", LAST);
 	
@@ -159,7 +159,7 @@ Action()
 		"Name=buyFlights.y", "Value=8", ENDITEM,
 		LAST);
 
-	lr_end_transaction("buy_ticket_payment_details",LR_AUTO);
+	lr_end_transaction("payment_details",LR_AUTO);
 	
 
 	/* LOGOUT */

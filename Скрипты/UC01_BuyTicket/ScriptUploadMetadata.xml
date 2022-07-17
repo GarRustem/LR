@@ -60,10 +60,12 @@
     <FileEntry Name="1901571944_1GJ.433.idx" Filter="1" />
     <FileEntry Name="1901571944_3HA.617.idx" Filter="1" />
     <FileEntry Name="1901571944_4It.943.idx" Filter="1" />
+    <FileEntry Name="1901571944_5nE.87.idx" Filter="1" />
     <FileEntry Name="1901571944_Bj2.323.idx" Filter="1" />
     <FileEntry Name="1901571944_ep6.35.idx" Filter="1" />
     <FileEntry Name="1901571944_gXT.169.idx" Filter="1" />
     <FileEntry Name="1901571944_Lrs.399.idx" Filter="1" />
+    <FileEntry Name="1901571944_nG9.23.idx" Filter="1" />
     <FileEntry Name="1901571944_nvf.969.idx" Filter="1" />
     <FileEntry Name="1901571944_pna.863.idx" Filter="1" />
     <FileEntry Name="1901571944_PNg.329.idx" Filter="1" />
@@ -88,7 +90,10 @@
     <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
     <FileEntry Name="logfile.log" Filter="1" />
     <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrvb0K.7.log" Filter="1" />
     <FileEntry Name="mdrvFEm.965.log" Filter="1" />
+    <FileEntry Name="mdrvTf3.913.log" Filter="1" />
+    <FileEntry Name="mdrvtoN.459.log" Filter="1" />
     <FileEntry Name="mdrv_cmd.txt" Filter="1" />
     <FileEntry Name="options.txt" Filter="1" />
     <FileEntry Name="output.bak" Filter="1" />

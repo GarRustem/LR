@@ -1,0 +1,3 @@
+"advanceDiscount=0&depart=Sydney&departDate=07%2F17%2F2022&arrive=Zurich&returnDate=07%2F23%2F2"
+"022&numPassengers=1&roundtrip=on&seatPref=None&seatType=First&.cgifields=roundtrip&.cgifields="
+"seatType&.cgifields=seatPref&findFlights.x=31&findFlights.y=8"

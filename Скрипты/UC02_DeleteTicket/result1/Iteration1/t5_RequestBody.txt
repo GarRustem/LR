@@ -1,3 +1,0 @@
-"flightID=345963394-847022-AC&2=on&flightID=339074505-1616252-AC&flightID=350259690-2385483-AC&"
-"flightID=34598780-366167-AC&flightID=352726698-4046284-AC&.cgifields=4&.cgifields=1&.cgifields"
-"=3&.cgifields=2&.cgifields=5&removeFlights.x=58&removeFlights.y=10"
